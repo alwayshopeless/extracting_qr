@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'GifFrameExtractor' => array($vendorDir . '/sybio/gif-frame-extractor/src'),
+    'GifCreator' => array($vendorDir . '/sybio/gif-creator/src'),
 );

@@ -13,6 +13,10 @@ class ComposerStaticInit9e7e5734f7b6a8f874eeec9943494b15
             array (
                 0 => __DIR__ . '/..' . '/sybio/gif-frame-extractor/src',
             ),
+            'GifCreator' => 
+            array (
+                0 => __DIR__ . '/..' . '/sybio/gif-creator/src',
+            ),
         ),
     );
 

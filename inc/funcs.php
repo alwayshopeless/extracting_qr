@@ -76,9 +76,12 @@ function normalizeColor(&$image){
         $black = [0,0,0];
         $white = [255, 255, 255];
         $mainColorIndex = imagecolorexact($image, ...$black);
-        imagecolorset($image, $mainColorIndex, ...$white);
     for ($j = 0; $j < $palette; $j++) {
-        if($j!=$mainColorIndex){
+        $colorMax = max(imagecolorsforindex($image, $j));
+        echo $colorMax."\t\t".implode("C:",imagecolorsforindex($image, $j))."\n";
+        if($colorMax>=125){
+            imagecolorset($image, $j, ...$white);
+        } else {
             imagecolorset($image, $j, ...$black);
         }
     }

@@ -50,3 +50,43 @@ function removeVoids(&$resource, $offset, $thickness){
         delSectionLine($resource, $resource, 0, $i, $thickness, "h");
     }
 }
+function removeOffsets(&$resource, $mode = "v"){
+    $width = imagesx($resource);
+    $height = imagesy($resource);
+    switch ($mode) {
+        case "h":
+            break;
+        case "v":
+            $offsetOverFirst = 0;
+            for($y = 0; $y<$height; $y++){
+                $fistInLine = imagecolorat($resource, 0, $y);
+                for($x = 0; $x<$width; $x++){
+                    if($fistInLine != imagecolorat($resource, $x, $y)){
+                        $offsetOverFirst = $y;
+                        break 2;
+                    }
+                }
+            }
+            $offsetOverSecond = 0;
+            for($y = $height-1; $y>0; $y--){
+                $fistInLine = imagecolorat($resource, 0, $y);
+                for($x = $width-1; $x>0; $x--){
+                    if($fistInLine != imagecolorat($resource, $x, $y)){
+                        $offsetOverSecond = $height-$y;
+                        break 2;
+                    }
+                }
+            }
+            printf("ТА ЗА ШО?? \n%d %d %d %d \n", $width, $height, $offsetOverFirst, $offsetOverSecond);
+            $height - $offsetOverFirst - $offsetOverSecond;
+            $resource = imagecrop($resource, [
+                'x' => 0,
+                'y' => $offsetOverFirst,
+                'width' => $width,
+                'height' => $height,
+            ]);
+            break;
+        default:
+            break;
+    }
+}

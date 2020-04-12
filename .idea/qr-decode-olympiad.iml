@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/sybio/gif-creator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sybio/gif-frame-extractor" />
     </content>
     <orderEntry type="inheritedJdk" />
