@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="100084ef-8dd9-4577-a8b9-f119d89ef620" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qr-decode-olympiad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extractor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/72.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/73.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/74.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/75.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/76.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/77.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/cleanerfunc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/funcs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/100.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/101.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/102.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/103.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/104.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/105.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/106.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/107.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/108.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/109.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/110.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/111.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/112.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/113.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/114.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/115.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/116.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/117.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/118.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/119.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/120.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/121.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/122.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/123.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/124.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/125.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/126.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/127.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/128.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/129.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/130.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/131.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/132.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/133.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/134.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/135.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/136.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/137.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/138.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/139.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/140.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/141.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/142.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/143.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/144.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/145.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/146.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/147.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/148.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/149.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/150.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/151.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/152.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/153.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/154.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/155.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/156.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/157.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/158.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/159.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/160.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/161.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/162.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/163.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/164.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/165.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/166.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/167.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/168.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/169.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/170.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/171.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/172.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/173.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/174.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/175.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/176.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/177.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/178.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/179.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/180.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/181.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/182.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/183.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/184.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/185.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/186.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/187.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/188.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/189.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/190.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/191.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/192.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/193.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/194.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/195.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/196.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/197.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/198.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/199.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/200.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/201.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/202.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/203.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/204.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/205.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/206.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/207.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/208.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/209.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/210.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/211.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/212.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/213.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/214.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/215.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/216.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/217.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/218.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/219.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/220.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/221.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/222.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/223.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/224.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/225.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/226.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/227.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/228.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/229.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/230.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/231.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/232.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/233.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/234.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/235.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/236.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/237.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/238.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/239.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/240.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/241.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/242.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/243.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/244.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/245.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/246.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/247.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/248.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/249.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/250.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/251.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/252.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/253.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/254.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/255.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/256.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/257.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/258.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/259.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/260.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/261.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/262.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/263.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/264.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/265.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/266.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/267.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/268.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/269.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/270.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/271.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/272.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/273.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/274.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/275.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/276.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/277.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/278.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/279.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/280.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/281.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/282.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/283.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/284.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/285.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/286.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/287.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/288.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/289.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/290.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/291.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/292.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/293.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/294.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/295.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/296.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/297.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/298.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/299.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/300.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/301.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/302.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/303.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/304.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/305.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/306.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/307.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/308.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/309.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/310.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/311.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/312.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/313.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/314.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/315.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/316.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/317.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/318.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/319.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/320.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/321.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/322.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/323.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/324.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/325.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/326.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/327.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/328.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/329.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/330.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/331.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/332.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/333.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/334.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/335.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/336.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/337.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/338.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/339.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/340.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/341.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/342.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/343.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/344.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/345.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/346.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/347.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/348.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/349.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/350.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/351.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/352.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/353.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/354.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/355.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/356.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/357.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/358.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/359.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/360.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/361.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/362.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/363.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/364.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/365.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/366.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/367.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/368.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/369.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/370.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/371.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/372.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/373.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/374.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/375.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/376.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/377.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/378.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/379.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/380.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/381.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/382.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/383.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/384.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/385.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/386.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/387.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/388.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/389.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/390.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/391.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/392.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/393.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/394.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/395.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/396.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/397.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/398.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/399.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/400.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/401.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/402.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/403.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/404.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/405.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/406.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/407.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/408.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/409.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/410.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/411.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/412.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/413.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/414.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/415.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/416.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/417.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/418.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/419.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/420.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/72.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/73.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/74.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/75.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/76.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/77.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/78.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/79.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/80.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/81.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/82.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/83.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/84.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/85.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/86.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/87.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/88.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/89.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/90.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/91.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/92.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/93.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/94.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/95.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/96.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/97.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/98.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/99.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sybio/gif-frame-extractor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sybio/gif-frame-extractor/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sybio/gif-frame-extractor/src/GifFrameExtractor/GifFrameExtractor.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/sybio/gif-frame-extractor" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1aJ2FD7RkuPLGtcIYMT6JArm4HW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\who\PHP Projects\qr-decode-olympiad" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="100084ef-8dd9-4577-a8b9-f119d89ef620" name="Default Changelist" comment="" />
+      <created>1586439275110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586439275110</updated>
+      <workItem from="1586439284794" duration="17150000" />
+      <workItem from="1586516139581" duration="9134000" />
+      <workItem from="1586526146709" duration="1005000" />
+      <workItem from="1586658711224" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
