@@ -1,4 +1,10 @@
 <?php
+function createDirs($pathName){
+    if(!file_exists($pathName)){
+        mkdir($pathName, 0777, true);
+    }
+}
+
 function getArraysIntersect($array){
     $result = [];
     foreach ($array as $keyArr => $item){

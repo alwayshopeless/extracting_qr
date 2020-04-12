@@ -18,8 +18,9 @@ for($i=0; $i<count($frames); $i++) {
     normalizeColor($frame);
     removeVoids($frame, 0, 1);
     removeOffsets($frame);
+    createDirs("source");
     imagegif($frame, "source/$i.gif");
-    break;
+//    break;
 }
 $closeTime = microtime(true)-$startTime;
 echo $closeTime;

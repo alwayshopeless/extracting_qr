@@ -2,19 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="100084ef-8dd9-4577-a8b9-f119d89ef620" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/qr-decode-olympiad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/qr-decode-olympiad.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extractor.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeExtractor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90%.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeExtractor.php" beforeDir="false" afterPath="$PROJECT_DIR$/codeExtractor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/getFrames.php" beforeDir="false" afterPath="$PROJECT_DIR$/getFrames.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/cleanerfunc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/cleanerfunc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/funcs.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/funcs.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/source/0.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
@@ -76,7 +82,7 @@
       <workItem from="1586439284794" duration="17150000" />
       <workItem from="1586516139581" duration="9134000" />
       <workItem from="1586526146709" duration="1005000" />
-      <workItem from="1586658711224" duration="9792000" />
+      <workItem from="1586658711224" duration="15380000" />
     </task>
     <servers />
   </component>
