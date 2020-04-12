@@ -17,16 +17,7 @@ $i = 0;
 $noisedQr = [];
 foreach ($frames as $frame) {
     $currentImg = $frame;
-    $palette = imagecolorstotal($currentImg);
-    for ($j = 0; $j < $palette; $j++) {
-        list("red" => $r, "blue" => $g, "green" => $b, "alpha" => $a) = imagecolorsforindex($currentImg, $j);
-        if ((int)$r == 150) {
-            imagecolorset($currentImg, imagecolorexact($currentImg, 150, 150, 150), 255, 0, 0);
-        } elseif ((int)$r == 64) {
-            imagecolorset($currentImg, imagecolorexact($currentImg, 64, 0, 0), 0, 0, 0);
-        }
-        #denoising
-    }
+    $currentImg = normalizeColor($currentImg);
     if (($i * 3) <= (333 - QR_SIZE - START_OFFSET_X)) {
         $tempImg = imagecreate(QR_SIZE, QR_SIZE);
         imagecopy($tempImg, $currentImg, 0, 0, START_OFFSET_X + ($i * 3), START_OFFSET_Y, QR_SIZE, QR_SIZE);

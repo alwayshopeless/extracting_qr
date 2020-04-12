@@ -1,5 +1,6 @@
 {
     "require": {
-        "sybio/gif-frame-extractor": "*"
+        "sybio/gif-frame-extractor": "*",
+        "ext-gd": "*"
     }
 }

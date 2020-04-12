@@ -71,3 +71,15 @@ function resourceByMap($pixelMap, $width, $height){
     }
     return $image;
 }
+function normalizeColor(&$image){
+        $palette = imagecolorstotal($image);
+        $black = [0,0,0];
+        $white = [255, 255, 255];
+        $mainColorIndex = imagecolorexact($image, ...$black);
+        imagecolorset($image, $mainColorIndex, ...$white);
+    for ($j = 0; $j < $palette; $j++) {
+        if($j!=$mainColorIndex){
+            imagecolorset($image, $j, ...$black);
+        }
+    }
+}
